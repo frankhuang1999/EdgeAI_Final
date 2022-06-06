@@ -38,7 +38,9 @@
 ![](https://i.imgur.com/Zek698k.jpg =200x200) ![](https://i.imgur.com/x7Yvoic.jpg =200x200) ![](https://i.imgur.com/S6vIwyM.jpg =200x200)
 
 ### 3.5 模型選用與訓練
-本系統的物件偵測模型使用**yolov4-tiny**。將拍攝到的相片輸入至模型後，模型會輸出包含bounding box的輸入圖片，用於偵測圖片上那些是停車空位，哪些是有人停的。
+本系統的物件偵測模型使用**yolov4-tiny**。
+
+![](https://i.imgur.com/oL34eWD.jpg)
 
 在訓練的部分，將原本的yolov4-tiny-custom.cfg做以下的更動：
 - class = 2
@@ -59,34 +61,33 @@
 ---
 
 ## 4. 實驗結果
+將拍攝到的相片輸入至模型後，模型將輸出包含bounding box的輸入圖片，用於偵測圖片上那些是停車空位，哪些是有人停的。
+<font color="#f0f">**紫紅色bounding box**</font>**：space-empty**
+<font color="#0f0">**綠色bounding box**</font>：**space-occupied**
+### 4.1 測試與比較
 ![](https://i.imgur.com/2lxvwjQ.jpg =350x) ![](https://i.imgur.com/P14xL8l.jpg =350x)
 
 ![](https://i.imgur.com/tG7dWzR.jpg =350x) ![](https://i.imgur.com/04QT6aa.jpg =350x)
 
 ![](https://i.imgur.com/xPbNsxi.jpg =350x) ![](https://i.imgur.com/pfNUcNk.jpg =350x)
 
-
-
-
-### 4.1 測試與比較
-註：可暫時略過不填
-
 ### 4.2 改進與優化
-這邊提出未來可以蓋進的方向：
+這邊提出未來可以改進的方向：
 #### 4.2.1 增加訓練資料的多樣性
 在測試的時候，有上網抓取一些停車場的圖片進行推論，不過因拍攝角度與訓練資料不同的關係，效果並不是這麼的顯著，因此可能需要多一點其他角度的訓練資料，讓模型學習到更多不一樣角度的停車場圖。
-#### 4.2.2 
+#### 4.2.2 模型收斂問題
+在模型訓練中，可以看到當所有的epochs全部跑完時，Loss還停在3.多，因此可以增加epoch數來使模型能夠在收斂
 
 ---
 
 ## 5. 結論
-本系統可以透過物件偵測模型，辨識出停車場的停車格是空位或是已經有車輛停了。若使用與訓練資料角度相同的停車場圖，效果非常的好，但如果角度不相同，則辨識的成功率就會變得極差，後續可以透過增加訓練資料的多樣性來解決
+本系統可以透過物件偵測模型，辨識出停車場的停車格是空位或是已經有車輛停了。若使用與訓練資料角度相同的停車場圖，效果非常的好，但如果角度不大相同，則辨識的成功率就會變得比較差，後續可以透過增加訓練資料的多樣性來解決
 
 ---
 
 ## 6. 附錄
-- colab 原碼 [![](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCOpWNfUcOFsR5R-xJ1bf_XwXA3I72Je)
-- [自定義資料集及標註檔](https://)
+- 測試推論結果範例程式碼 [![](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCOpWNfUcOFsR5R-xJ1bf_XwXA3I72Je)
+- [github](https://github.com/frankhuang1999/EdgeAI_Final.git)
 
 ---
 
@@ -94,7 +95,3 @@
 - [許哲豪 - 如何以Google Colab及Yolov4tiny (yolov4tiny)來訓練自定義資料集 ─ 以狗臉、貓臉、人臉偵測為例](https://omnixri.blogspot.com/2021/05/google-colabyolov4-tiny.html)
 - [Github - AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 - [PKLot Dataset](https://public.roboflow.com/object-detection/pklot)
-- 
----
-
-
