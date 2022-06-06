@@ -38,7 +38,7 @@
 ![](https://i.imgur.com/Zek698k.jpg =200x200) ![](https://i.imgur.com/x7Yvoic.jpg =200x200) ![](https://i.imgur.com/S6vIwyM.jpg =200x200)
 
 ### 3.5 模型選用與訓練
-本系統的物件偵測模型使用**yolov4-tiny**。
+本系統的物件偵測模型使用**yolov4-tiny**
 
 ![](https://i.imgur.com/oL34eWD.jpg)
 
