@@ -89,7 +89,7 @@
 ---
 
 ## 6. 附錄
-- 測試推論結果範例程式碼 [![](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCOpWNfUcOFsR5R-xJ1bf_XwXA3I72Je)
+- [![](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCOpWNfUcOFsR5R-xJ1bf_XwXA3I72Je)
 - [模型權重及相關資料下載 GitHub](https://github.com/frankhuang1999/EdgeAI_Final.git)
 - [Hackmd文檔](https://hackmd.io/@hsh/EdgeAI_Final-Project_M11007320)
 
