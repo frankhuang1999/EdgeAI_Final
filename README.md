@@ -71,7 +71,7 @@
 
 <img src="https://i.imgur.com/tG7dWzR.jpg" width="414" height="265">   <img src="https://i.imgur.com/04QT6aa.jpg" width="414" height="265">
 
-![](https://i.imgur.com/xPbNsxi.jpg =350x)  ![](https://i.imgur.com/pfNUcNk.jpg =350x)
+<img src="https://i.imgur.com/xPbNsxi.jpg" width="414" height="265">   <img src="https://i.imgur.com/pfNUcNk.jpg" width="414" height="265">
 
 ### 4.2 改進與優化
 這邊提出未來可以改進的方向：
