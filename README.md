@@ -36,7 +36,7 @@
 本次可使用的資料集為[PKLot](https://www.kaggle.com/blanderbuss/parking-lot-dataset)
 - **PKLot**包含了12,416張，大小為640*640從監控攝影機拍攝的停車場畫面，在資料集中有晴天、雨天、陰天的圖像，停車位有標記為已佔用或空位。
 
-<img src="https://i.imgur.com/Zek698k.jpg" width="200" height="200"> <img src="https://i.imgur.com/x7Yvoic.jpg" width="200" height="200"> <img src="https://i.imgur.com/S6vIwyM.jpg" width="200" height="200">
+<img src="https://i.imgur.com/Zek698k.jpg" width="320" height="320"> <img src="https://i.imgur.com/x7Yvoic.jpg" width="320" height="320"> <img src="https://i.imgur.com/S6vIwyM.jpg" width="320" height="320">
 
 ### 3.5 模型選用與訓練
 本系統的物件偵測模型使用**yolov4-tiny**
