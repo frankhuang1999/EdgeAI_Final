@@ -35,6 +35,7 @@
 ### 3.4 資料集建立方式
 本次可使用的資料集為[PKLot](https://www.kaggle.com/blanderbuss/parking-lot-dataset)
 - **PKLot**包含了12,416張，大小為640*640從監控攝影機拍攝的停車場畫面，在資料集中有晴天、雨天、陰天的圖像，停車位有標記為已佔用或空位。
+
 <img src="https://i.imgur.com/Zek698k.jpg" width="200" height="200"> <img src="https://i.imgur.com/x7Yvoic.jpg" width="200" height="200"> <img src="https://i.imgur.com/S6vIwyM.jpg" width="200" height="200">
 
 ### 3.5 模型選用與訓練
