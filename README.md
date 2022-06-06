@@ -62,7 +62,8 @@
 
 ## 4. 實驗結果
 將拍攝到的相片輸入至模型後，模型將輸出包含bounding box的輸入圖片，用於偵測圖片上那些是停車空位，哪些是有人停的。
-**紫紅色bounding box：space-empty** \n
+**紫紅色bounding box：space-empty**
+
 **綠色bounding box：space-occupied**
 ### 4.1 測試與比較
 ![](https://i.imgur.com/2lxvwjQ.jpg =350x) ![](https://i.imgur.com/P14xL8l.jpg =350x)
