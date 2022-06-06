@@ -67,7 +67,7 @@
 
 **綠色bounding box：space-occupied**
 ### 4.1 測試與比較
-<img src="https://i.imgur.com/2lxvwjQ.jpg" width="350" height="350">
+<img src="https://i.imgur.com/2lxvwjQ.jpg" width="259" height="166">
 ![](https://i.imgur.com/2lxvwjQ.jpg) ![](https://i.imgur.com/P14xL8l.jpg){:height="20px" width="20px"}
 
 ![](https://i.imgur.com/tG7dWzR.jpg =350x)  ![](https://i.imgur.com/04QT6aa.jpg =350x)
