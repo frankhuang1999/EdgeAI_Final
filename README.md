@@ -69,7 +69,7 @@
 ### 4.1 測試與比較
 <img src="https://i.imgur.com/2lxvwjQ.jpg" width="414" height="265">   <img src="https://i.imgur.com/P14xL8l.jpg" width="414" height="265">
 
-<img src="https://i.imgur.com/tG7dWzR.jpg" width="443" height="249">   <img src="https://i.imgur.com/04QT6aa.jpg" width="443" height="249">
+<img src="https://i.imgur.com/tG7dWzR.jpg" width="414" height="265">   <img src="https://i.imgur.com/04QT6aa.jpg" width="414" height="265">
 
 ![](https://i.imgur.com/xPbNsxi.jpg =350x)  ![](https://i.imgur.com/pfNUcNk.jpg =350x)
 
