@@ -38,7 +38,6 @@
 
 <img src="https://i.imgur.com/Zek698k.jpg" width="320" height="320"> <img src="https://i.imgur.com/x7Yvoic.jpg" width="320" height="320"> <img src="https://i.imgur.com/S6vIwyM.jpg" width="320" height="320">
 
-
 - 資料集中，occupied及empty車位數量
 ![](https://i.imgur.com/LIJfsaO.png)
 - 資料集中，訓練與測試資料的occupied及empty車位數量
