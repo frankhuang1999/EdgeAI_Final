@@ -76,7 +76,7 @@
 
 ### 4.1 成果展示
 
-這三張測試圖片為資料集中的測試資料，可以明顯看出模型都能夠準確的標示出空車位及占用車位
+這三張測試圖片為**資料集中的測試資料**，可以明顯看出模型都能夠準確的標示出空車位及占用車位
 
 <img src="https://i.imgur.com/getowgE.jpg" width="320" height="320"> <img src="https://i.imgur.com/DC4WP5D.jpg" width="320" height="320">
 
@@ -84,9 +84,9 @@
 
 <img src="https://i.imgur.com/euGG7S4.jpg" width="320" height="320"> <img src="https://i.imgur.com/pKWc7Q7.png" width="320" height="320">
 
-### 4. 測試與比較
+### 4.2 測試與比較
 
-這三張測試圖片為網路上隨機抓取，可以明顯看出模型都能夠準確的標示出空車位及占用車位
+這三張測試圖片為**網路上隨機抓取**，可以明顯看出模型都能夠準確的標示出空車位及占用車位
 
 <img src="https://i.imgur.com/2lxvwjQ.jpg" width="414" height="265">   <img src="https://i.imgur.com/P14xL8l.jpg" width="414" height="265">
 
@@ -94,11 +94,11 @@
 
 <img src="https://i.imgur.com/xPbNsxi.jpg" width="414" height="265">   <img src="https://i.imgur.com/pfNUcNk.jpg" width="414" height="265">
 
-### 4.2 改進與優化
+### 4.3 改進與優化
 這邊提出未來可以改進的方向：
-#### 4.2.1 增加訓練資料的多樣性
+#### 4.3.1 增加訓練資料的多樣性
 在測試的時候，有上網抓取一些停車場的圖片進行推論，不過因拍攝角度與訓練資料不同的關係，效果並不是這麼的顯著，因此可能需要多一點其他角度的訓練資料，讓模型學習到更多不一樣角度的停車場圖。
-#### 4.2.2 模型收斂問題
+#### 4.3.2 模型收斂問題
 在模型訓練中，可以看到當所有的epochs全部跑完時，Loss還停在3.多，因此可以增加epoch數來使模型能夠在收斂
 
 ---
