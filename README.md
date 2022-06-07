@@ -73,7 +73,21 @@
 **紫紅色bounding box：space-empty**
 
 **綠色bounding box：space-occupied**
-### 4.1 測試與比較
+
+### 4.1 成果展示
+
+這三張測試圖片為資料集中的測試資料，可以明顯看出模型都能夠準確的標示出空車位及占用車位
+
+<img src="https://i.imgur.com/getowgE.jpg" width="320" height="320"> <img src="https://i.imgur.com/DC4WP5D.jpg" width="320" height="320">
+
+<img src="https://i.imgur.com/u2NkqVG.jpg" width="320" height="320"> <img src="https://i.imgur.com/spmEsPl.jpg" width="320" height="320">
+
+<img src="https://i.imgur.com/euGG7S4.jpg" width="320" height="320"> <img src="https://i.imgur.com/pKWc7Q7.png" width="320" height="320">
+
+### 4. 測試與比較
+
+這三張測試圖片為網路上隨機抓取，可以明顯看出模型都能夠準確的標示出空車位及占用車位
+
 <img src="https://i.imgur.com/2lxvwjQ.jpg" width="414" height="265">   <img src="https://i.imgur.com/P14xL8l.jpg" width="414" height="265">
 
 <img src="https://i.imgur.com/tG7dWzR.jpg" width="414" height="265">   <img src="https://i.imgur.com/04QT6aa.jpg" width="414" height="265">
