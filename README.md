@@ -111,6 +111,7 @@
 - [![](http://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCOpWNfUcOFsR5R-xJ1bf_XwXA3I72Je)
 - [模型權重及相關資料下載 GitHub](https://github.com/frankhuang1999/EdgeAI_Final.git)
 - [Hackmd文檔](https://hackmd.io/@hsh/EdgeAI_Final-Project_M11007320)
+- [Dataset Download](https://public.roboflow.com/object-detection/pklot)
 
 ---
 
@@ -118,4 +119,4 @@
 - [許哲豪 - 如何以Google Colab及Yolov4tiny (yolov4tiny)來訓練自定義資料集 ─ 以狗臉、貓臉、人臉偵測為例](https://omnixri.blogspot.com/2021/05/google-colabyolov4-tiny.html)
 - [Github - AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 - [PKLot – A robust dataset for parking lot classification](https://www.sciencedirect.com/science/article/pii/S0957417415001086)
-- [Dataset Download](https://public.roboflow.com/object-detection/pklot)
+
