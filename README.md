@@ -118,5 +118,5 @@
 ## 7. 參考資料
 - [許哲豪 - 如何以Google Colab及Yolov4tiny (yolov4tiny)來訓練自定義資料集 ─ 以狗臉、貓臉、人臉偵測為例](https://omnixri.blogspot.com/2021/05/google-colabyolov4-tiny.html)
 - [Github - AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-- [PKLot – A robust dataset for parking lot classification](https://www.sciencedirect.com/science/article/pii/S0957417415001086)
+- [PKLot - A robust dataset for parking lot classification](https://www.sciencedirect.com/science/article/pii/S0957417415001086)
 
