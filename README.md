@@ -29,7 +29,7 @@
 ### 3.3 工作原理及流程
 使用相機/空拍機所拍攝的影像當作輸入，經過模型推論之後，可以得知停車場的停車狀況
 
-![](https://i.imgur.com/1ZqAyJZ.png)
+![](https://i.imgur.com/3YuMluc.png)
 
 ### 3.4 資料集建立方式
 本次可使用的資料集為[PKLot](https://www.kaggle.com/blanderbuss/parking-lot-dataset)
