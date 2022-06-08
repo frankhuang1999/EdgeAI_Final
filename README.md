@@ -96,7 +96,7 @@
 
 這張照片為測試失敗的圖片，因拍攝角度與訓練資料不同，因此測試效果不好
 
-<img src="https://i.imgur.com/D9QJLtx.png" width="320" height="320"> <img src="https://i.imgur.com/PO236ve.jpg" width="320" height="320"> 
+<img src="https://i.imgur.com/D9QJLtx.png" width="407" height="229"> <img src="https://i.imgur.com/PO236ve.jpg" width="412" height="231"> 
 
 ### 4.3 改進與優化
 這邊提出未來可以改進的方向：
