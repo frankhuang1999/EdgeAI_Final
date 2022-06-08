@@ -94,6 +94,10 @@
 
 <img src="https://i.imgur.com/xPbNsxi.jpg" width="414" height="265"> <img src="https://i.imgur.com/pfNUcNk.jpg" width="414" height="265">
 
+這張照片為測試失敗的圖片，因拍攝角度與訓練資料不同，因此測試效果不好
+
+<img src="https://i.imgur.com/D9QJLtx.png" width="320" height="320"> <img src="https://i.imgur.com/PO236ve.jpg" width="320" height="320"> 
+
 ### 4.3 改進與優化
 這邊提出未來可以改進的方向：
 #### 4.3.1 增加訓練資料的多樣性
