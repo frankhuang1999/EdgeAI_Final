@@ -88,11 +88,11 @@
 
 這三張測試圖片為**網路上隨機抓取**，可以明顯看出模型都能夠準確的標示出空車位及占用車位
 
-<img src="https://i.imgur.com/2lxvwjQ.jpg" width="414" height="265">   <img src="https://i.imgur.com/P14xL8l.jpg" width="414" height="265">
+<img src="https://i.imgur.com/2lxvwjQ.jpg" width="414" height="265"> <img src="https://i.imgur.com/P14xL8l.jpg" width="414" height="265">
 
-<img src="https://i.imgur.com/tG7dWzR.jpg" width="414" height="265">   <img src="https://i.imgur.com/04QT6aa.jpg" width="414" height="265">
+<img src="https://i.imgur.com/tG7dWzR.jpg" width="414" height="265"> <img src="https://i.imgur.com/04QT6aa.jpg" width="414" height="265">
 
-<img src="https://i.imgur.com/xPbNsxi.jpg" width="414" height="265">   <img src="https://i.imgur.com/pfNUcNk.jpg" width="414" height="265">
+<img src="https://i.imgur.com/xPbNsxi.jpg" width="414" height="265"> <img src="https://i.imgur.com/pfNUcNk.jpg" width="414" height="265">
 
 ### 4.3 改進與優化
 這邊提出未來可以改進的方向：
